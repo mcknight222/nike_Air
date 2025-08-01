@@ -244,7 +244,7 @@
     background-color: var(--color-zinc-800);
   }
   .bg-\[url\(\/image\/bg\.png\)\] {
-    background-image: url(/image/bg.png);
+    background-image: url(image/bg.png);
   }
   .bg-cover {
     background-size: cover;
